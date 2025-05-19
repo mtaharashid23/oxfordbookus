@@ -83,7 +83,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li class="has-child click">
+                                <li class="has-child hover-two">
                                     <a href="javascript:;">Fiction Writing <i class="fa fa-chevron-down chev"></i></a>
                                     <div class="dropdown">
                                         <ul>
