@@ -23,7 +23,7 @@
        <div class="row justify-content-center">
          <div class="col-lg-9">
            <div class="copyright">
-             <p>Copyright © Oxford Book US 2024 All rights reserved. <a href="javaavoid:;" data-toggle="modal"
+             <p>Copyright © Oxford Book US 2025 All rights reserved. <a href="javaavoid:;" data-toggle="modal"
                  data-target="#staticBackdrop1">Terms of Services</a> | <a href="javaavoid:;" data-toggle="modal"
                  data-target="#staticBackdrop1">Privacy Policy</a> | Powered By Oxford Book US
            </div>

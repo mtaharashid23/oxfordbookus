@@ -77,7 +77,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>© 2024 Oxford Book US. All Rights Reserved</p>
+                    <p>© 2025 Oxford Book US. All Rights Reserved</p>
                 </div>
                 <div class="col-md-6">
                     <ul>
