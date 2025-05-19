@@ -60,12 +60,12 @@
                         </a>
                     </div>
                     <div class="col-lg-10 text-right">
-                        <div class="menuWrap">
+                        <div class="menuWrap" data-lenis-prevent>
                             <ul class="menu">
                                 <li>
                                     <a href="about">About</a>
                                 </li>
-                                <li class="has-child hover">
+                                <li class="has-child">
                                     <a href="javascript:;">Ghostwriting <i class="fa fa-chevron-down chev"></i></a>
                                     <div class="dropdown">
                                         <ul>
@@ -83,7 +83,7 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li class="has-child hover-two">
+                                <li class="has-child">
                                     <a href="javascript:;">Fiction Writing <i class="fa fa-chevron-down chev"></i></a>
                                     <div class="dropdown">
                                         <ul>

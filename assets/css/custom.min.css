@@ -457,14 +457,21 @@ button {
 
 .dropdown {
     position: absolute;
-    background: white;
-    /* padding: 1rem; */
+    background: white;    
     border-radius: 0px 0px 10px 10px;
     top: 100%;
     width: 300px;
     box-shadow: 0 10px 20px rgb(0 0 0 / 10%), 0 6px 6px rgb(0 0 0 / 10%);
     display: none;
+    transition: all 0.4s ease;          
 }
+
+.has-child:hover .dropdown {
+    display: block;
+    height: auto;
+    animation: fadeIn 0.4s ease;                                                                             
+}
+
 
 .dropdown .dropdown {
     left: 100%;
@@ -482,12 +489,12 @@ button {
     border-bottom: 1px solid #ddd;
 }
 
-.chev.rotate {
-    transform: rotate(180deg);
-}
-
 .chev {
     transition: .5s ease;
+}
+
+.has-child:hover .chev {
+    transform: rotate(180deg);
 }
 
 /* Dropdown CSS*/
