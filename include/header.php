@@ -3,11 +3,14 @@
 <html lang="en">
 
 <head>
-    <title><?php echo isset($title) ? $title : 'Professional Ghostwriting Services for Authors | Oxford Book US';  ?></title>
-    <meta charset="UTF-8">    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">    
-    <meta name="description" content="<?php echo isset($desc) ? $desc : 'Looking for professional book writing services? At Oxford Book US, we offer expert ghostwriting services for authors. From eBooks to business content, we turn your ideas into high-quality, professionally written works. Bring your vision to life with us!';  ?>">
-    <meta name="keywords" content="Oxford Book US, Ghostwriting Services, Ghostwriting for Authors, Book Writing Services, Ghost Book Writing, Professional Author, Book Writer, Hire a Ghostwriter, Affordable Ghostwriting Services, USA Author Services, Book Authoring, Book Writer USA, Author Writing, Cheap Ghostwriter">    
+    <title><?php echo isset($title) ? $title : 'Professional Ghostwriting Services for Authors | Oxford Book US';  ?>
+    </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="description"
+        content="<?php echo isset($desc) ? $desc : 'Looking for professional book writing services? At Oxford Book US, we offer expert ghostwriting services for authors. From eBooks to business content, we turn your ideas into high-quality, professionally written works. Bring your vision to life with us!';  ?>">
+    <meta name="keywords"
+        content="Oxford Book US, Ghostwriting Services, Ghostwriting for Authors, Book Writing Services, Ghost Book Writing, Professional Author, Book Writer, Hire a Ghostwriter, Affordable Ghostwriting Services, USA Author Services, Book Authoring, Book Writer USA, Author Writing, Cheap Ghostwriter">
     <?php include 'include/css.php'; ?>
 </head>
 
@@ -36,7 +39,8 @@
                             </div>
                             <div>
                                 <div class="topbar-btn">
-                                    <a href="tel:+1 (302) 597-7704" class="topbarbtn"><i class="fas fa-phone-alt"></i>+1 (302) 597-7704</a>
+                                    <a href="tel:+1 (302) 597-7704" class="topbarbtn"><i class="fas fa-phone-alt"></i>+1
+                                        (302) 597-7704</a>
                                     <a href="mailto:info@oxfordbookus.com" class="topbarbtn"><i
                                             class="fas fa-envelope"></i>info@oxfordbookus.com</a>
                                 </div>
@@ -56,14 +60,48 @@
                 <div class="row align-items-center">
                     <div class="col-md-3 col-lg-2 text-left">
                         <a href="/" class="logo" aria-label="logo">
-                            <img src="assets/images/logo.png" alt="image" width="1" height="1">                            
+                            <img src="assets/images/logo.png" alt="image" width="1" height="1">
                         </a>
                     </div>
                     <div class="col-lg-10 text-right">
                         <div class="menuWrap" data-lenis-prevent>
-                            <ul class="menu">
-                                <li>
-                                    <a href="about">About</a>
+                            <ul class="menu">                                
+                                <li class="has-child">
+                                    <a href="javascript:;">Our Services <i class="fa fa-chevron-down chev"></i></a>
+                                    <div class="dropdown">
+                                        <ul>
+                                            <li>
+                                                <a href="book-writing" class="dropdown-item">Book Writing Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="book-editing" class="dropdown-item">Book Editing Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="book-publishing" class="dropdown-item">Book Publishing Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="book-marketing" class="dropdown-item">Book Marketing Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="book-printing" class="dropdown-item">Book Printing Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="audiobook" class="dropdown-item">Audiobook Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="social-media-for-author" class="dropdown-item">Social Media For Author</a>
+                                            </li>
+                                            <li>
+                                                <a href="cover-design" class="dropdown-item">Ebook Cover Design</a>
+                                            </li>
+                                            <li>
+                                                <a href="author-website-design" class="dropdown-item">Author Website Design</a>
+                                            </li>
+                                            <li>
+                                                <a href="book-illustration" class="dropdown-item">Book Illustration</a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </li>
                                 <li class="has-child">
                                     <a href="javascript:;">Ghostwriting <i class="fa fa-chevron-down chev"></i></a>
@@ -98,17 +136,11 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <a href="book-editing">Book Editing</a>
-                                </li>
+                                    <a href="about">About Us</a>
+                                </li>                           
                                 <li>
-                                    <a href="book-marketing">Book Marketing</a>
-                                </li>
-                                <li>
-                                    <a href="book-publishing">Book Publishing</a>
-                                </li>
-                                <li>
-                                    <a href="cover-design">Cover Design</a>
-                                </li>
+                                    <a href="conact">Contact Us</a>
+                                </li>     
                             </ul>
                             <ul class="menu btns">
                                 <li>
