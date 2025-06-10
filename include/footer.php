@@ -15,52 +15,52 @@
                             <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="about">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
-                            <a href="book-editing">Book Editing</a>
+                            <a href="book-editing.php">Book Editing</a>
                         </li>
                         <li>
-                            <a href="book-marketing">Book Marketing</a>
+                            <a href="book-marketing.php">Book Marketing</a>
                         </li>
                         <li>
-                            <a href="book-publishing">Book Publishing</a>
+                            <a href="book-publishing.php">Book Publishing</a>
                         </li>
                         <li>
-                            <a href="cover-design">Cover Design</a>
+                            <a href="cover-design.php">Cover Design</a>
                         </li>
                         <li>
-                            <a href="contact">Contact Us</a>
+                            <a href="contact.php">Contact Us</a>
                         </li>
                         <li>
-                            <a href="how-its-work">How it Works</a>
+                            <a href="how-its-work.php">How it Works</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-6 col-lg-2 col-6 res-col1">
                     <h4>Ghostwriting</h4>
                     <ul>
-                        <li><a href="non-fiction">Non-Fiction</a></li>
-                        <li><a href="biography">Biography </a></li>
-                        <li><a href="autobiography">Autobiography</a></li>
-                        <li><a href="memoir-writing">Memoir Writing</a></li>
-                        <li><a href="novel-writing">Novel Writing</a></li>
-                        <li><a href="comic-writing">Comic Writing</a></li>
-                        <li><a href="speech-writing">Speech Writing</a></li>
-                        <li><a href="children-book-writing">Children Book Writing</a>
+                        <li><a href="non-fiction.php">Non-Fiction</a></li>
+                        <li><a href="biography.php">Biography </a></li>
+                        <li><a href="autobiography.php">Autobiography</a></li>
+                        <li><a href="memoir-writing.php">Memoir Writing</a></li>
+                        <li><a href="novel-writing.php">Novel Writing</a></li>
+                        <li><a href="comic-writing.php">Comic Writing</a></li>
+                        <li><a href="speech-writing.php">Speech Writing</a></li>
+                        <li><a href="children-book-writing.php">Children Book Writing</a>
                         </li>
-                        <li><a href="fitness-writing">Fitness Writing</a></li>
-                        <li><a href="cookbook-writing">Cookbook Writing</a></li>
+                        <li><a href="fitness-writing.php">Fitness Writing</a></li>
+                        <li><a href="cookbook-writing.php">Cookbook Writing</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 col-lg-2 col-6 res-col1">
                     <h4>Fiction Writing</h4>
                     <ul>
-                        <li><a href="fantasy-writing">Fantasy Writing</a></li>
-                        <li><a href="action-adventure-writing">Action-Adventure Writing </a></li>
-                        <li><a href="horror-book-writing">Horror Book Writing</a>
+                        <li><a href="fantasy-writing.php">Fantasy Writing</a></li>
+                        <li><a href="action-adventure-writing.php">Action-Adventure Writing </a></li>
+                        <li><a href="horror-book-writing.php">Horror Book Writing</a>
                         </li>
-                        <li><a href="scl-fiction-book-writing">SCI-Fiction Book
+                        <li><a href="scl-fiction-book-writing.php">SCI-Fiction Book
                                 Writing</a></li>
                     </ul>
                 </div>
@@ -81,8 +81,8 @@
                 </div>
                 <div class="col-md-6">
                     <ul>
-                        <li><a href="terms">Terms &amp; Condition</a></li>
-                        <li><a href="privacy">Privacy Policy</a></li>
+                        <li><a href="terms.php">Terms &amp; Condition</a></li>
+                        <li><a href="privacy.php">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>

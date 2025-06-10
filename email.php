@@ -39,7 +39,7 @@ if (isset($_GET["email"]) && !empty($_GET["email"])) {
 
     if ($success) {
         $_SESSION['email_sent'] = true; // Indicate successful email sending
-        header('Location: thankyou'); // Redirect to thank you page
+        header('Location: thankyou.php'); // Redirect to thank you page
         exit;
     } else {
         // Handle email sending failure (optional)

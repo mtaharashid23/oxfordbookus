@@ -71,34 +71,34 @@
                                     <div class="dropdown">
                                         <ul>
                                             <li>
-                                                <a href="book-writing" class="dropdown-item">Book Writing Service</a>
+                                                <a href="book-writing.php" class="dropdown-item">Book Writing Service</a>
                                             </li>
                                             <li>
-                                                <a href="book-editing" class="dropdown-item">Book Editing Service</a>
+                                                <a href="book-editing.php" class="dropdown-item">Book Editing Service</a>
                                             </li>
                                             <li>
-                                                <a href="book-publishing" class="dropdown-item">Book Publishing Service</a>
+                                                <a href="book-publishing.php" class="dropdown-item">Book Publishing Service</a>
                                             </li>
                                             <li>
-                                                <a href="book-marketing" class="dropdown-item">Book Marketing Service</a>
+                                                <a href="book-marketing.php" class="dropdown-item">Book Marketing Service</a>
                                             </li>
                                             <li>
-                                                <a href="book-printing" class="dropdown-item">Book Printing Service</a>
+                                                <a href="book-printing.php" class="dropdown-item">Book Printing Service</a>
                                             </li>
                                             <li>
-                                                <a href="audiobook" class="dropdown-item">Audiobook Service</a>
+                                                <a href="audiobook.php" class="dropdown-item">Audiobook Service</a>
                                             </li>
                                             <li>
-                                                <a href="social-media-for-author" class="dropdown-item">Social Media For Author</a>
+                                                <a href="social-media-for-author.php" class="dropdown-item">Social Media For Author</a>
                                             </li>
                                             <li>
-                                                <a href="cover-design" class="dropdown-item">Ebook Cover Design</a>
+                                                <a href="cover-design.php.php" class="dropdown-item">Ebook Cover Design</a>
                                             </li>
                                             <li>
-                                                <a href="author-website-design" class="dropdown-item">Author Website Design</a>
+                                                <a href="author-website-design.php" class="dropdown-item">Author Website Design</a>
                                             </li>
                                             <li>
-                                                <a href="book-illustration" class="dropdown-item">Book Illustration</a>
+                                                <a href="book-illustration.php" class="dropdown-item">Book Illustration</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -107,17 +107,17 @@
                                     <a href="javascript:;">Ghostwriting <i class="fa fa-chevron-down chev"></i></a>
                                     <div class="dropdown">
                                         <ul>
-                                            <li><a href="non-fiction">Non Fiction</a></li>
-                                            <li><a href="biography">Biography </a></li>
-                                            <li><a href="autobiography">Autobiography</a></li>
-                                            <li><a href="memoir-writing">Memoir Writing</a></li>
-                                            <li><a href="novel-writing">Novel Writing</a></li>
-                                            <li><a href="comic-writing">Comic Writing</a></li>
-                                            <li><a href="speech-writing">Speech Writing</a></li>
-                                            <li><a href="children-book-writing">Children Book
+                                            <li><a href="non-fiction.php">Non Fiction</a></li>
+                                            <li><a href="biography.php">Biography </a></li>
+                                            <li><a href="autobiography.php">Autobiography</a></li>
+                                            <li><a href="memoir-writing.php">Memoir Writing</a></li>
+                                            <li><a href="novel-writing.php">Novel Writing</a></li>
+                                            <li><a href="comic-writing.php">Comic Writing</a></li>
+                                            <li><a href="speech-writing.php">Speech Writing</a></li>
+                                            <li><a href="children-book-writing.php">Children Book
                                                     Writing</a></li>
-                                            <li><a href="fitness-writing">Fitness Writing</a></li>
-                                            <li><a href="cookbook-writing">CookBook Writing</a></li>
+                                            <li><a href="fitness-writing.php">Fitness Writing</a></li>
+                                            <li><a href="cookbook-writing.php">CookBook Writing</a></li>
                                         </ul>
                                     </div>
                                 </li>
@@ -125,21 +125,21 @@
                                     <a href="javascript:;">Fiction Writing <i class="fa fa-chevron-down chev"></i></a>
                                     <div class="dropdown">
                                         <ul>
-                                            <li><a href="fantasy-writing">Fantasy Writing</a></li>
-                                            <li><a href="action-adventure-writing">Action Adventure
+                                            <li><a href="fantasy-writing.php">Fantasy Writing</a></li>
+                                            <li><a href="action-adventure-writing.php">Action Adventure
                                                     Writing </a></li>
-                                            <li><a href="horror-book-writing">Horror Book Writing</a>
+                                            <li><a href="horror-book-writing.php">Horror Book Writing</a>
                                             </li>
-                                            <li><a href="scl-fiction-book-writing">SCI-Fiction Book
+                                            <li><a href="scl-fiction-book-writing.php">SCI-Fiction Book
                                                     Writing</a></li>
                                         </ul>
                                     </div>
                                 </li>
                                 <li>
-                                    <a href="about">About Us</a>
+                                    <a href="about.php">About Us</a>
                                 </li>                           
                                 <li>
-                                    <a href="conact">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>     
                             </ul>
                             <ul class="menu btns">
