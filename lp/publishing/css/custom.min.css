@@ -2144,8 +2144,11 @@ body {
 
 .footer-nav.style-2>li,
 .logo img {
-    width: 120px;
-}
+<<<<<<<HEAD
+    width: 180px;
+=======width: 120px;
+>>>>>>> 2c7d89b1622fd32d71b742b6cf55f5377f3fa35b
+;width: 180px;}
 
 .subscribe-main {
     margin: 30px 15px 10px;
